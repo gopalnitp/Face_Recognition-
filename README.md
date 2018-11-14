@@ -1,4 +1,6 @@
 # Face_Recognition- using RF
-run data_prep.py (note : change the path)
-run train_model.py 
-run test_models.py
+1)run data_prep.py (note : change the path)
+
+2)run train_model.py 
+
+3)run test_models.py
